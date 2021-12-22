@@ -26,7 +26,7 @@ In this part we've combined between machine vision and deep learning to build a 
 
 - We've used transfer learning to get the best results
 - All the programming and model training was done in google colab palteform
-- The dataset was built from scratch using data augmentation
+- The dataset was built from scratch using data augmentation (https://drive.google.com/drive/folders/1Rhvm25AZc2vGegAZm7xYZKFo-NpyWSjI?usp=sharing)
   - The dataset contain
     - 572 good images
     - 572 defected images
