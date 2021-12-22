@@ -41,6 +41,8 @@ In this part we've combined between machine vision and deep learning to build a 
 - Mikro c
 - EasyEDA
 
+## Demo
+- You find can find the project demo in my linkedin page here: www.linkedin.com/in/sofianeabouchi19
 ## Credit
 The work was done with the help of:
 - Dr.Skander benseguni
