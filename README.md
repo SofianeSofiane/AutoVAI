@@ -26,9 +26,24 @@ In this part we've combined between machine vision and deep learning to build a 
 
 - We've used transfer learning to get the best results
 - All the programming and model training was done in google colab palteform
-- The dataset was built from scratch using data augmentation 
+- The dataset was built from scratch using data augmentation
+  - The dataset contain
+    - 572 good images
+    - 572 defected images
 
 ![j](https://user-images.githubusercontent.com/96339267/147110633-dbc6d72a-755a-4bf1-8a2f-64a4d0471bc3.png)
 
+## Software used
+- Pycharm
+- MATLAB
+- Solidworks
+- ISIS Proteuse
+- Mikro c
+- EasyEDA
+
+## Credit
+The work was done with the help of:
+- Dr.Skander benseguni
+- Mr.Mohammed Belayati
 
 
